@@ -1,0 +1,67 @@
+.dashboard-header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .card {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .card h2 {
+    margin-top: 0;
+  }
+  
+  .card p {
+    margin: 10px 0;
+  }
+  
+  .btn-primary {
+    background-color: #6200ea;
+    border-color: #6200ea;
+  }
+  
+  .btn-primary:hover {
+    background-color: #3700b3;
+    border-color: #3700b3;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
+  .d-flex {
+    display: flex;
+  }
+  
+  .justify-content-between {
+    justify-content: space-between;
+  }
+  
+  .align-items-center {
+    align-items: center;
+  }
+  .card-hover1 {
+    transition: border 0.3s ease-in-out;
+    min-height: 400px;
+  }
+  
+  

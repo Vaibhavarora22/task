@@ -1,0 +1,39 @@
+.header {
+    background-color: #2d2d3d;
+    padding: 10px;
+  }
+  
+  .logo {
+    color: #ffffff;
+    margin-right: 10px;
+  }
+  
+  .search-bar {
+    background-color: #1e1e2e;
+    border: none;
+    color: #ffffff;
+  }
+  
+  .upgrade-btn {
+    background-color: #ff4e64;
+    border: none;
+  }
+  
+  .menu-icon,
+  .profile-icon {
+    color: #ffffff;
+    margin-left: 10px;
+  }
+  
+  .menu-icon {
+    font-size: 20px;
+  }
+  
+  .profile-icon img {
+    border: 2px solid #ffffff;
+  }
+  .space{
+    margin-left: 35%;
+    width: 50%;
+  }
+  
